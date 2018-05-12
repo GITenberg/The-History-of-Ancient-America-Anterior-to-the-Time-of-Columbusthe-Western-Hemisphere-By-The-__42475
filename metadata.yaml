@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41706'
     url: http://www.gutenberg.org/2009/agents/41706
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42475#The-History-of-Ancient-America-Anterior-to-the-Time-of-Columbusthe-Western-Hemisphere-By-The-_
 gutenberg_issued: '2013-04-07'
 gutenberg_type: Text
 identifiers:
