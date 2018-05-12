@@ -1,0 +1,32 @@
+_repo: The-History-of-Ancient-America-Anterior-to-the-Time-of-Columbusthe-Western-Hemisphere-By-The-__42475
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42475-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Jones, George
+    alias: George, Count Joannes
+    birthdate: 1810
+    deathdate: 1879
+    gutenberg_agent_id: '41706'
+    url: http://www.gutenberg.org/2009/agents/41706
+description: ''
+gutenberg_issued: '2013-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42475'
+  lccn: '02013440'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Discovery and exploration -- Phoenician'
+- !lcc 'E011'
+- !lcsh 'America -- Antiquities'
+- !lcsh 'Indians -- Origin'
+title: "The History of Ancient America, Anterior to the Time of Columbus\r\nProving\
+  \ the Identity of the Aborigines with the Tyrians and Israelites; and the Introduction\
+  \ of Christianity into the Western Hemisphere By The Apostle St. Thomas"
+url: http://www.gutenberg.org/ebooks/42475
